@@ -1,0 +1,6 @@
+yourusername.github.io/  
+├── index.html          (Main page)  
+├── styles.css         (Styling)  
+└── projects/          (Folder for project details)  
+    ├── project1.md  
+    ├── project2.md  
